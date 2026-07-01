@@ -1,5 +1,6 @@
 # 💈 Barbearia Imperial Website
 
+![Preview do site](assets/barbearia.png)
 
 Projeto de um site moderno para uma barbearia, desenvolvido para demonstrar criação de páginas profissionais, responsivas e focadas na experiência do usuário.
 
